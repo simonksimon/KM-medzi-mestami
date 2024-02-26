@@ -1,0 +1,70 @@
+Bratislava;Dunajsk� Streda
+Dunajsk� Streda;Kom�rno
+Kom�rno;Nov� Z�mky
+Nov� Z�mky;Nitra
+Nitra;Trnava
+Dudince;Levice
+Levice;Nitra
+Nitra;Topol�any
+Topol�any;Prievidza
+Prievidza;Tren�in
+Tren�in;Pie��any
+Pie��any;Trnava
+Trnava;Senec
+Senec;Bratislava
+Bratislava;Malacky
+Malacky;K�ty
+K�ty;Skalica
+Skalica;Senica
+Senica;Trnava
+Tren�in;Pova�sk� Bystrica
+Pova�sk� Bystrica;�ilina
+�ilina;�adca
+�ilina;Martin
+Martin;Ru�omberok
+Ru�omberok;Doln� Kub�n
+Doln� Kub�n;N�mestovo
+Ru�omberok;Liptovsk� Mikul�
+Poprad;Liptovsk� Mikul�
+Poprad;Star� �ubov�a
+Bardejov;Svidn�k
+Svidn�k;Stropkov
+Stropkov;Pre�ov
+Pre�ov;Poprad
+Pre�ov;Ko�ice
+Ko�ice;Michalovce
+Michalovce;Humenn�
+Humenn�;Pre�ov
+Ko�ice;Ro��ava
+Ro��ava;Rimavsk� Sobota
+Rimavsk� Sobota;Lu�enec
+Zvolen;Bansk� Bystrica
+Bansk� Bystrica;Brezno
+Zvolen;�iar nad Hronom
+�iar nad Hronom;Prievidza
+Dudince;Zvolen
+Dudince;Lu�enec
+�t�rovo;Kom�rno
+�t�rovo;Levice
+Bansk� Bystrica;Ru�omberok
+Prievidza;�ilina
+Zvolen;Detva
+Detva;Lu�enec
+Rimavsk� Sobota;Tisovec
+Tisovec;Brezno
+Tisovec;Poprad
+Poprad;Ro��ava
+Brezno;Liptovsk� Mikul�
+Nitra;�iar nad Hronom
+Nov� Z�mky;Galanta
+Galanta;Senec
+Star� �ubov�a;Plave�
+Plave�;Bardejov
+Plave�;Pre�ov
+Humenn�;Snina
+Bansk� Bystrica;Tur�ianske Teplice
+Tur�ianske Teplice;Martin
+�iar nad Hronom;Tur�ianske Teplice
+�t�rovo;Nov� Z�mky
+Nov� Z�mky;Levice
+Levice;�iar nad Hronom
